@@ -9,7 +9,7 @@
 title: Memories from an Platform Architect
 email: victor.fondevilla@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Here I'll blog about random stuff like DevOps, Infrastructure, Kubernetes, NSX-T, VMware vSphere, Openstack...
+  Here I'll blog about random stuff like DevOps, Infrastructure, AWS, Kubernetes, NSX-T, VMware vSphere, Openstack...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.victorfondevilla.com" # the base hostname & protocol for your site
 twitter_username: vFondevilla
@@ -30,3 +30,6 @@ markdown: kramdown
 exclude: ['node_modules','package.json','.settings','.project','about_english.md','404.md']
 compress_html:
   blanklines: true
+
+sass:
+  style: :expanded # You might prefer to minify using :compressed

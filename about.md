@@ -4,26 +4,31 @@ title: Info y curriculum
 ---
 Víctor Fondevilla <img src="/public/img/imagen_redes_sociales.png" title="Victor Fondevilla" width="100" height="100" />
 
-
 Residencia: Barcelona
-
 
 Email: <vf@victorfondevilla.com>
 
 Web: <http://www.victorfondevilla.com>
 
+# Experiencia
 
-
-
-### Experiencia
 -----------
 *Enero 2017 - Actualmente*
 **T-Systems - Platform Architect**
 
+* Como Cloud Evangelist de la compañía, llevo a cabo workshops de arquitectura y técnicos sobre diversas tecnologías aplicables a cloud, como por ejemplo: Terraform, Ansible, Packer, OpenShift, OpenStack y AWS, tanto de forma interna como de forma externa.
+* Realizo labores de preventa de soluciones de Cloud Público sobre AWS y Cloud Híbrido sobre VMware, OpenStack y AWS, enfocado a gran cuenta.
+* R&D (Research and development) sobre soluciones Cloud de forma interna y su idoneidad para incorporarlos al stack tecnológico de T-Systems
 * Arquitecto encargado del desarrollo de portfolio y arquitectura, centrado en tecnología de Private Cloud (VMware vSphere, vCloud Director, NSX, vRealize Suite, VSAN, OpenStack) y Public Cloud (Amazon Web Services)
-* Definición del servicio y arquitectura del servicio de Disaster Recovery as a Service
-* Redefinición de plataforma y servicio de vCloud
-* Definición de arquitecturas con NSX 
+
+*Proyectos más reseñables:*
+
+* Uno de los principales proyectos del Q2 de 2018 ha sido articular el servicio gestionado de AWS en T-Systems, incluyendo planes de formación y acuerdos con mayoristas.
+* Definición del servicio y arquitectura del servicio de Disaster Recovery as a Service, que se ofrece a todos los clientes de T-Systems
+* Redefinición de plataforma y servicio de vCloud, que se ofrece a todos los clientes de T-Systems
+* Rediseño de infraestructura de virtualización para un Ministerio
+* Diseño de planes de migración de AWS a Datacenter tradicional de un club de futbol
+* Diseño de infraestructura de cloud híbrido para un Ministerio
 
 *Noviembre 2015 - Diciembre 2016*
 **Sopra Steria - Systems Architect & Consultant**
@@ -31,6 +36,11 @@ Web: <http://www.victorfondevilla.com>
 * Arquitecto de Infraestructuras
 * Arquitecto VMware y Microsoft (Active Directory, Exchange, Windows Server)
 * Preventa técnica
+
+*Proyectos más reseñables:*
+
+* Diseño de infraestructura de cloud privado y plan de migración para una aseguradora multinacional.
+* Auditoría y rediseño completo de infraestructura para una multinacional de manufactura de automoción.
 
 *Mayo 2015 - Noviembre 2015*
 **Presence Technology - Cloud Architect**
@@ -55,7 +65,6 @@ Web: <http://www.victorfondevilla.com>
 * Diseño de arquitectura de Exchange 2013 (on-premises, despliegues híbridos)
 * Diseño de infraestructuras vSphere 5
 * Diseño de soluciones Disaster Recovery
-* Hyper-V PoC
 Redacción de artículos sobre arquitecturas recomendadas (iniciativa propia):
 
 * Ecommerce (<http://www.claranet.es/blog/arquitecturas-recomendadas-plataforma-cloud-para-ecommerce.html>)
@@ -106,14 +115,11 @@ Redacción de artículos sobre arquitecturas recomendadas (iniciativa propia):
 
 * Resolución de incidencias insitu y de forma remota a los usuarios de la empresa
 * Instalación y cableado estructurado de servidores, comprobación de circuitos primarios en CPDs y CDCs de Vodafone España
-* Instalación y montaje de servidores IBM
 * Labores de soporte a los clientes de los servicios Fax2Mail, Mail2Fax, IVRVirtual
 * Planificación y despliegue de soluciones software sobre Linux y Windows
 * Planificación y despliegue de solución de inventariado usando GLPI y OCSInventory
 * Administración de equipos de sobremesa sobre Windows XP/Windows 7
 * Administración de servidores Windows (con Active Directory y todos sus servicios asociados)
-* Administración de Active Directory
-* Diseños e implantación de VPNs en servidores Windows
 * Mantenimiento y revisión de servidores Linux con Asterisk, MySQL, Apache, Tomcat
 * Mantenimiento y revisión de sistemas VMware Server y vSphere (administración de recursos y hardening)
 * Mantenimiento de todos los servicios internos de la oficina (telefonía correo, AD, streaming, CVS...)
@@ -135,9 +141,7 @@ Redacción de artículos sobre arquitecturas recomendadas (iniciativa propia):
 * Colaboración en la configuración de sistemas de firewall
 * Colaboración en la administración y hardening de la granja de servidores virtualizados usando VMware Server 2 y VMware ESXi 3.5
 
-
 *Marzo 2007 - Octubre 2008*
-
 **idealista.com – Helpdesk / Técnico de segundo nivel**
 
 * Atención al cliente
@@ -145,47 +149,41 @@ Redacción de artículos sobre arquitecturas recomendadas (iniciativa propia):
 * Mantenimiento Hardware y Software presente en la oficina (ordenadores de sobremesa, ordenadores portátiles, servidores, redes)
 * Asesoramiento en cuanto a nuevas tecnologías (móviles, portátiles...)
 
-
-
 ### Conocimientos técnicos
+
 -----------
 
-Profundo conocimiento y experiencia en gestión y bastionado de sistemas operativos tanto en entornos virtuales como físicos (Windows 2003,2008,2012, 2012R2; Linux Debian, Ubuntu, CentOS)
+Conocimientos a nivel de arquitecto de:
 
-Conocimientos a nivel de administrador y arquitecto de:
- 
- * VMware vSphere 4, 5, 5.1, 5.5, 6.0
- * VMware Log Insight, VMware vCenter Operations Manager (vRealize Operations), VMware vCenter Automation Center (vRealize Automation)
- * Active Directory (2003, 2008, 2012, 2012R2)
- * BBDD (SQL Server, MySQL)
- * Exchange 2007, 2010, 2013, en entornos on-premises e híbridos
- * Scripting (Bash, Powershell)
- * Loadbalancers (F5 Big-IP, Array Networks)
- * Servidores web (Apache, Nginx, IIS)
- * Motores de caché (Redis, Memcached)
- * Soluciones de backup de entornos virtuales (Veeam Backup&Replication)
+* VMware vSphere 4, 5, 5.1, 5.5, 6.0, 6.5
+* VMware NSX-v y NSX-T
+* RedHat OpenStack Platform
+* Amazon Web Services
+
+Conocimientos a nivel administrador
+
+* Automatización (Ansible, Terraform, Packer)
+* Active Directory (2003, 2008, 2012, 2012R2)
+* BBDD (SQL Server, MySQL)
+* Exchange 2007, 2010, 2013, en entornos on-premises e híbridos
+* Scripting (Bash, Powershell)
+* Loadbalancers (F5 Big-IP, Array Networks)
+* Servidores web (Apache, Nginx, IIS)
+* Motores de caché (Redis, Memcached)
+* Soluciones de backup de entornos virtuales (Veeam Backup&Replication)
 
 Conocimientos a nivel avanzado de:
 
-* Citrix XenApp 6.5, XenApp 7.6
-* Storage
+* Software Defined Storage (VSAN, Ceph)
 * Seguridad
 * Monitorización (Zabbix, Nagios, Centreon, SCOM 2012)
-* Automatización
 * Firewalls Next-Generation (Fortinet, Juniper)
 * Soluciones de aceleración de storage (PernixData FVP, vSphere Read Flash Cache)
-* AWS, Azure, Office 365
-
-* Experiencia en creación y mantenimiento de documentación e informes de todo tipo (Reason of Outages, Request for changes, documentación técnica)
-
-Conocimientos básicos de:
-
-* Docker
-* OpenStack
 * OpenShift
 
 
 ### Estudios
+
 -----------
 
 Septiembre 2017
@@ -209,33 +207,34 @@ Marzo 2015
 
 Julio 2014
 
-  * Hacking & Hardening in GNU/Linux
+* Hacking & Hardening in GNU/Linux
 
 Abril 2014
 
-  * VMware Certificate Professional 5 (VCP 5 - DCV)
+* VMware Certificate Professional 5 (VCP 5 - DCV)
 
 Noviembre 2013
 
-  * Curso oficial VMware VCP 510 FastTrack
+* Curso oficial VMware VCP 510 FastTrack
 
 Diciembre 2012
 
-  * Microsoft Official Course 10135: Configuring, Managing and Troubleshooting Microsoft Exchange Server 2010
+* Microsoft Official Course 10135: Configuring, Managing and Troubleshooting Microsoft Exchange Server 2010
 
 Noviembre 2012
 
-  * F5 Official Course: Configuring BIG-IP LTM v11
+* F5 Official Course: Configuring BIG-IP LTM v11
 
 Julio 2010
 
-  * Grado de Seguridad Informática Avanzada (CSIA) de la Universidad de Barcelona
+* Grado de Seguridad Informática Avanzada (CSIA) de la Universidad de Barcelona
+
 2007 – 2009
 
-  * Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos
-
+* Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos
 
 ### Aptitudes
+
 -----------
 Customer oriented
 

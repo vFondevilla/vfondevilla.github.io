@@ -23,6 +23,7 @@ plugins:
   - jekyll-gist
   - jekyll-sitemap
   - jekyll-avatar
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown

@@ -6,7 +6,7 @@ Víctor Fondevilla <img src="/public/img/imagen_redes_sociales.png" title="Victo
 
 Residencia: Barcelona
 
-Email: <vf@victorfondevilla.com>
+Email: <vf@victorfondevilla.com>; <victor.fondevilla@gmail.com>
 
 Web: <http://www.victorfondevilla.com>
 
@@ -16,19 +16,20 @@ Web: <http://www.victorfondevilla.com>
 *Enero 2017 - Actualmente*
 **T-Systems - Platform Architect**
 
-* Como Cloud Evangelist de la compañía, llevo a cabo workshops de arquitectura y técnicos sobre diversas tecnologías aplicables a cloud, como por ejemplo: Terraform, Ansible, Packer, OpenShift, OpenStack y AWS, tanto de forma interna como de forma externa.
+* Líder en desarrollo de portfolio y arquitectura centrado en soluciones de Cloud Privado (OpenStack, Neutron, Ceph, VMware vSphere, NSX-T, NSX-v, VSAN) y Cloud Público (AWS, Open Telekom Cloud)
+* Como Cloud Evangelist de la compañía, llevo a cabo workshops de arquitectura y técnicos sobre diversas tecnologías aplicables a cloud tanto público como privado y DevOps, como por ejemplo: Terraform, Ansible, Packer, OpenShift, Kubernetes, Traefik, OpenStack y AWS, tanto de forma interna como de forma externa.
 * Realizo labores de preventa de soluciones de Cloud Público sobre AWS y Cloud Híbrido sobre VMware, OpenStack y AWS, enfocado a gran cuenta.
 * R&D (Research and development) sobre soluciones Cloud de forma interna y su idoneidad para incorporarlos al stack tecnológico de T-Systems
-* Arquitecto encargado del desarrollo de portfolio y arquitectura, centrado en tecnología de Private Cloud (VMware vSphere, vCloud Director, NSX, vRealize Suite, VSAN, OpenStack) y Public Cloud (Amazon Web Services)
 
 *Proyectos más reseñables:*
 
-* Uno de los principales proyectos del Q2 de 2018 ha sido articular el servicio gestionado de AWS en T-Systems, incluyendo planes de formación y acuerdos con mayoristas.
+* Uno de los principales proyectos del Q3 de 2018 ha sido articular el servicio gestionado de AWS en T-Systems, incluyendo planes de formación y acuerdos con mayoristas y fabricantes.
 * Definición del servicio y arquitectura del servicio de Disaster Recovery as a Service, que se ofrece a todos los clientes de T-Systems
 * Redefinición de plataforma y servicio de vCloud, que se ofrece a todos los clientes de T-Systems
 * Rediseño de infraestructura de virtualización para un Ministerio
 * Diseño de planes de migración de AWS a Datacenter tradicional de un club de futbol
 * Diseño de infraestructura de cloud híbrido para un Ministerio
+* Implementación de pipelines de CI/CD en procesos DevOps de provisión interno de T-Systems
 
 *Noviembre 2015 - Diciembre 2016*
 **Sopra Steria - Systems Architect & Consultant**
@@ -186,6 +187,15 @@ Conocimientos a nivel avanzado de:
 
 -----------
 
+Diciembre 2018
+
+* CL310 RedHat OpenStack Administration III
+
+Marzo 2018
+
+* CL110 RedHat OpenStack Administration I
+* CL210 RedHat OpenStack Administration II
+
 Septiembre 2017
 
 * VMware Certified Professional 6 - Network Virtualization (VCP6-NV)
@@ -246,7 +256,7 @@ Serio
 
 Trabajador
 
-Curioso y con ganas de seguir aprendiendo (en el trabajo o con mi homelab)
+Curioso y con ganas de seguir aprendiendo (en el trabajo o con mi laboratorio)
 
 Disponibilidad para desplazarse
 

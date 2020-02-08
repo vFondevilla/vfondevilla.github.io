@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Memories from an Platform Architect
+title: Cloud-ish ramblings
 email: victor.fondevilla@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Here I'll blog about random stuff like DevOps, Infrastructure, AWS, Kubernetes, NSX-T, VMware vSphere, Openstack...
+  Here I'll blog about random stuff like DevOps, Infrastructure, AWS...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.victorfondevilla.com" # the base hostname & protocol for your site
 twitter_username: vFondevilla
@@ -24,6 +24,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-avatar
   - jekyll-feed
+#  - jekyll-github-metada
+  - jekyll-redirect-from
+  - jemoji
 
 # Build settings
 markdown: kramdown

@@ -25,7 +25,7 @@ En mi caso particular, he cogido una imagen de Ubuntu 20.04 LTS (aunque realment
 
 Personalmente, llevo varios días trabajando exclusivamente desde el contenedor para todo lo que está relacionado con mi trabajo, y ni tan mal oye.
 
-He dejado mi caso particular en mi [repositorio](https://github.com/vFondevilla/cloud-shell), por si a alguien le puede servir de algo :)
+He dejado mi caso particular en mi [Docker hub](https://hub.docker.com/r/vfondevilla/cloud-shell), por si a alguien le puede servir de algo :)
 
 
 
